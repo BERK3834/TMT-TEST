@@ -1,4 +1,4 @@
-##BERK38341##
+##BERK3834##
 
 import tkinter as tk
 from tkinter import scrolledtext
