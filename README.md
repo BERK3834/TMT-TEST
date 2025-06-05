@@ -22,3 +22,13 @@ python trail_test.py
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` file for details.
+
+## ⚠️ Disclaimer
+
+This software is provided for educational and experimental purposes only.
+
+It is **not intended for clinical diagnosis, treatment, or medical evaluation**.  
+No part of this software should be used as a substitute for professional healthcare services.
+
+The developer assumes **no liability** for any decisions or actions taken based on the output of this program.
+
