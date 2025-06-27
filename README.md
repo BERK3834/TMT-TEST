@@ -19,6 +19,8 @@ This project is a digital implementation of the **Trail Making Test (TMT)**, a w
 
 ```bash
 python trail_test.py
+```
+
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` file for details.
@@ -31,4 +33,3 @@ It is **not intended for clinical diagnosis, treatment, or medical evaluation**.
 No part of this software should be used as a substitute for professional healthcare services.
 
 The developer assumes **no liability** for any decisions or actions taken based on the output of this program.
-
